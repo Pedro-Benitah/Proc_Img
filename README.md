@@ -1,5 +1,9 @@
-# Processamento de Imagens
+# Proc_Img
 
-Repositório inicializado com um README para permitir criação de branches.
+Repositório da disciplina de Processamento de Imagens.
 
-Este commit é criado automaticamente pelo assistente para inicializar o repositório. Em seguida serão criadas as branches Aula-1 até Aula-14.
+## Organização
+
+- `Proc_Img_Aula_N`: notebooks e materiais de cada aula.
+- `Proc_Img_Atividade_N`: entregas separadas das atividades.
+- `main`: documentação e base comum do repositório.
